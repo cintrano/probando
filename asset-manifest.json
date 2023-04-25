@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/probando/static/css/main.e6c13ad2.css",
+    "main.js": "/probando/static/js/main.de57daa3.js",
+    "index.html": "/probando/index.html",
+    "main.e6c13ad2.css.map": "/probando/static/css/main.e6c13ad2.css.map",
+    "main.de57daa3.js.map": "/probando/static/js/main.de57daa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.de57daa3.js"
+  ]
+}
